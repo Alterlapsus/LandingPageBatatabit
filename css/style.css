@@ -51,6 +51,10 @@ html {
     margin-top: 8rem;
     color:var(--off_white);
 }
+.header__boton{
+    display: flex;
+    justify-content: center;
+}
 .header__cta{
     position: absolute;
     display: inline-block;
