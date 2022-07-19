@@ -1,7 +1,7 @@
 # LandingPageBatatabit
 
 - Realizando Maquetación como práctica de página Batatabit 
-- Aún no está terminada
+- Aún no está terminada falta arreglar responsive en celulares. 
 
 ---
 
