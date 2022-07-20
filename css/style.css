@@ -71,7 +71,7 @@ html {
     text-decoration: none;
     font-size: 1.5rem;
     font-weight: bold;
-    margin-top: 13rem;
+    margin-top: 1.5rem;
     box-shadow: 0px 4px 8px rgb(89 73 30 / 16%);
 }
 
@@ -86,11 +86,11 @@ html {
         flex-direction: column;
     }
     .header__copy{
-        margin-top: 7rem;
+        margin-top: 2rem;
         font-size: 14px;
     }
     .header__cta{
-        margin-top: 6rem;
+        margin-top: 2rem;
     }
 }
 
@@ -102,7 +102,7 @@ html {
         margin-top: 3rem;
     }
     .header__cta{
-        margin-top: 10rem;
+        margin-top: 2rem;
     }
 }
 
@@ -113,7 +113,10 @@ html {
 }
 
 @media screen and (max-width: 438px) {
+    .header__picture{
+        margin-top: 4rem;
+    }
     .header__cta{
-        margin-top: 6rem;
+        margin-top: 1.5rem;
     }
 }
