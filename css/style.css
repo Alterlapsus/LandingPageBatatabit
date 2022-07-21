@@ -34,7 +34,7 @@ html {
     text-align: center;
     background: linear-gradient(207.8deg, var(--Warm_black) 16.69%, var(--Bitcoin_Orange) 100%);
     width: 100%;
-    height: 71vh;
+    height: 70vh;
 }
 .header__picture{
     margin-top: 8rem;
@@ -45,7 +45,6 @@ html {
 }
 .header__title{
     font-size: 4rem;
-    max-width: 1200px;
 }
 .header__title span{
     display: flex;
