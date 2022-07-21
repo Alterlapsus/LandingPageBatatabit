@@ -107,6 +107,6 @@ html {
 }
 @media (min-width: 455px) {
     .header__cta{
-        margin-top: 6rem;
+        margin-top: 2rem;
     }
 }
