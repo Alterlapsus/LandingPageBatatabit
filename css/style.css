@@ -61,7 +61,7 @@ html {
     justify-content: center;
 }
 .header__cta{
-    /* position: absolute; */
+    position: absolute;
     display: inline-block;
     background-color: #FAF8F7;
     color: var(--Warm_black);
@@ -107,6 +107,6 @@ html {
 
 @media screen and (max-width: 455px) {
     .header__cta{
-        margin-top: 2rem;
+        margin-top: 6rem;
     }
 }
