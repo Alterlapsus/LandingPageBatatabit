@@ -92,10 +92,12 @@ html {
 }
 .texts__title{
     font-size: 24px;
+    color: #201E1C;
 }
 .texts__copy{
     font-size: 14px;
-
+    color: #BABABA;
+    margin-top: 1rem;
 }
 /* section responsive */
 @media (min-width: 518px) {
