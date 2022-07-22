@@ -76,17 +76,18 @@ html {
 }
 
 /* section main */
-.container__img{
-    width: 60%;
-    height: auto;
-    text-align: center;
-    margin: 0 auto;
+.hero{
+    
 }
-.container__picture{
-    width: 80%;
+.hero__img{
+    background-image: url(/img/bitcoin.svg);
+    width: 20%;
+    height: 400px;
     background-repeat: no-repeat;
-    background-size: cover;
+    margin-top: 4rem;
 }
+
+/* section responsive */
 @media (min-width: 518px) {
     .header__cta{
         margin-top: 7.5rem;
