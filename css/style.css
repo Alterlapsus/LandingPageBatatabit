@@ -75,6 +75,18 @@ html {
     left: calc(50% - 118px);
 }
 
+/* section main */
+.container__img{
+    width: 60%;
+    height: auto;
+    text-align: center;
+    margin: 0 auto;
+}
+.container__picture{
+    width: 80%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 @media (min-width: 518px) {
     .header__cta{
         margin-top: 7.5rem;
