@@ -76,18 +76,7 @@ html {
 }
 
 /* section main */
-.hero{
-    min-width: 17%;
-    margin: 0 auto;
-}
-.hero__img{
-    display: block;
-    background-image: url(/img/bitcoin.svg);
-    width: 100%;
-    height: 200px;
-    background-repeat: no-repeat;
-    margin-top: 4rem;
-}
+
 
 /* section responsive */
 @media (min-width: 518px) {
