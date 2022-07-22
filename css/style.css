@@ -76,7 +76,16 @@ html {
 }
 
 /* section main */
-
+.hero{
+    display: flex;
+    justify-content: center;
+}
+.hero__img{
+    margin-top: 6rem;
+}
+.hero__picture{
+    max-width: 100%;
+}
 
 /* section responsive */
 @media (min-width: 518px) {
