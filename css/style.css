@@ -86,3 +86,21 @@ html {
         margin-top: 9.5rem;
     }
 }
+
+@media (min-width: 768px) {
+   .header{
+    min-width: 870px;
+   }
+    .header__texts{
+        width: 80%;
+    }
+    .header__title{
+        font-size: 4rem;
+    }
+    .header__copy{
+        font-size: 2rem;
+    }
+    .header__cta{
+        margin-top: 2rem;
+    }
+}
