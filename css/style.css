@@ -98,6 +98,7 @@ html {
     font-size: 14px;
     color: #BABABA;
     margin-top: 1rem;
+    padding: 5px 0 5px;
 }
 /* section responsive */
 @media (min-width: 518px) {
@@ -128,4 +129,9 @@ html {
     .header__cta{
         margin-top: 2rem;
     }
+
+    /* hero */
+
+    /* texts */
+    
 }
