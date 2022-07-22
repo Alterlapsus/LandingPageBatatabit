@@ -81,12 +81,22 @@ html {
     justify-content: center;
 }
 .hero__img{
-    margin-top: 6rem;
+    margin: 4rem 0;
 }
 .hero__picture{
     max-width: 100%;
 }
+.texts{
+    display: block;
+    text-align: center;   
+}
+.texts__title{
+    font-size: 24px;
+}
+.texts__copy{
+    font-size: 14px;
 
+}
 /* section responsive */
 @media (min-width: 518px) {
     .header__cta{
