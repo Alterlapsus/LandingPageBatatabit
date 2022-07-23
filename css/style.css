@@ -142,7 +142,12 @@ html {
     border-radius: 30px;
 }
 
-
+.card__title--color{
+    color: var(--Secundary_blue);
+}
+.card__paragraph--color{
+    background-color: var(--Soft_blue);
+}
 /* section responsive */
 @media (min-width: 518px) {
     .header__cta{
