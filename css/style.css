@@ -117,6 +117,10 @@ html {
     margin-left: 10rem;
 }
 
+.card__tipo--margines span{
+    margin-left: 8rem;
+}
+
 .card__paragraph{
     margin-top: 2rem;
     font-size: 12px;
@@ -193,4 +197,13 @@ html {
     }
     /* texts */
     
+
+    /* cards */
+    .cards{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .card{
+        margin-top: 4rem;
+    }
 }
