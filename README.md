@@ -5,9 +5,11 @@
 
 ---
 
-<a href="https://proyectoisrael.netlify.app/">Ver WebSite</a>
+<a href="https://batatabitalter.netlify.app/">Ver WebSite</a>
 
-[![Proyecto-Desarrollo.png](https://i.postimg.cc/Kj86QXNk/Proyecto-Desarrollo.png)](https://postimg.cc/MMg3KFgq)
+<a href="https://postimg.cc/hQq5f15R" target="_blank"><img src="https://i.postimg.cc/3Ny5fLjN/Desktop-Batatabit.png" alt="Desktop-Batatabit"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/3r6H0T7v/mobile.png" alt="mobile"/></a><br/><br/>
+<br /><a href='https://postimages.org/es/'>fotos en jpg</a><br />
 
 ---
 
