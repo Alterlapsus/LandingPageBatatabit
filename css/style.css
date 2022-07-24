@@ -155,7 +155,7 @@ html {
     margin-top: 6rem;
     background-color: var(--Warm_black);
     width: 100%;
-    height: 455px;
+    height: 525px;
 }
 .contenido__img{
     display: flex;
@@ -179,6 +179,38 @@ html {
     color: #808080;
 }
 
+.contenedor{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    place-items: center;
+    gap: -40rem;
+}
+.contenedor__card{
+    margin-top: 2rem;
+    background-color: #282623;
+    width: 400px;
+    height: 150px;
+    padding: 25px 10px 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgb(0 0 0 / 16%);  
+}
+.contenedor__picture{
+    margin-bottom: 1rem;
+    margin-top: -1rem;
+}
+.contenedor__texts{
+    
+}
+.contenedor__title{
+    margin-top: 1rem;
+    color: #FFF;
+    font-size: 18px;
+}
+.contenedor__copy{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    color: #808080;
+}
 
 
 
