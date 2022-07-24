@@ -180,17 +180,18 @@ html {
 }
 
 .contenedor{
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    place-items: center;
-    gap: -40rem;
+   display: flex;
+   flex-wrap: wrap;
+   width: 850px;
+   margin: 0 auto;
+   column-gap: 5rem;
 }
 .contenedor__card{
     margin-top: 2rem;
     background-color: #282623;
     width: 400px;
     height: 150px;
-    padding: 25px 10px 15px;
+    padding: 25px 10px 45px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgb(0 0 0 / 16%);  
 }
