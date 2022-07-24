@@ -152,7 +152,6 @@ html {
 
 /* section información */
 .contenido{
-    position: relative;
     margin-top: 6rem;
     background-color: var(--Warm_black);
     width: 100%;
@@ -163,16 +162,23 @@ html {
     justify-content: center;
 }
 .contenido__picture{
+    position: absolute;
     margin-top: -1.3rem;
 }
-
-.contenido__informacion{
-
-}
 .contenido__texts{
+    text-align: center;
     margin-top: 4rem;
     color: #ffff;
+    line-height: 2.5;
 }
+.contenido__title{
+    font-size: 24px;
+}
+.contenido__copy{
+    font-size: 14px;
+    color: #808080;
+}
+
 
 
 
