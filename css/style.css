@@ -77,6 +77,8 @@ html {
 
 /* section main */
 .hero{
+    width: 100%;
+    min-width: 350px;
     display: flex;
     justify-content: center;
 }
@@ -87,8 +89,10 @@ html {
     max-width: 100%;
 }
 .texts{
+    width: 100%;
+    min-width: 350px;
     display: block;
-    text-align: center;   
+    text-align: center;
 }
 .texts__title{
     font-size: 24px;
@@ -98,11 +102,15 @@ html {
     font-size: 14px;
     color: #BABABA;
     margin-top: 1rem;
-    padding: 5px 0 5px;
+    padding: 10px 10px 10px 10px; 
 }
 
 
 /* cards */
+.cards{
+    width: 100%;
+    min-width: 350px;
+}
 .card{
     display: flex;
     flex-direction: column;
@@ -155,7 +163,8 @@ html {
     margin-top: 6rem;
     background-color: var(--Warm_black);
     width: 100%;
-    height: 525px;
+    min-width: 350px;
+    height: 950px;
 }
 .contenido__img{
     display: flex;
@@ -180,27 +189,27 @@ html {
 }
 
 .contenedor{
-   display: flex;
-   flex-wrap: wrap;
-   width: 850px;
-   margin: 0 auto;
-   column-gap: 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 .contenedor__card{
-    margin-top: 2rem;
-    background-color: #282623;
-    width: 400px;
+    width: 90%;
+    min-width: 288px;
+    max-width: 400px;
     height: 150px;
-    padding: 25px 10px 45px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgb(0 0 0 / 16%);  
+    margin: 15px auto;
+    padding: 15px;
+    background-color: #282623;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgb(0 0 0 / 16%);
 }
 .contenedor__picture{
     margin-bottom: 1rem;
     margin-top: -1rem;
 }
 .contenedor__texts{
-    
+
 }
 .contenedor__title{
     margin-top: 1rem;
@@ -214,12 +223,43 @@ html {
 }
 
 
+/* section fondo */
+.fondo{
+    position: relative; 
+}
+.fondo__title{
+    width: 100%;
+    min-width: 350px;
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 7rem;
+    position: absolute;
+    color: #FFF;
+}
+.fondo__img{
+    background-image: url(/img/bitcoinbaby\ 2.png);
+    width: 100%;
+    min-width: 350px;
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center;
+}
+.fondo__picture{
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+
+
 
 
 /* section responsive */
 @media (min-width: 518px) {
     .header__cta{
         margin-top: 7.5rem;
+    }
+    .contenedor{
+        align-items: center;
     }
 }
 
@@ -233,7 +273,7 @@ html {
     .header__cta{
         margin-top: 9.5rem;
     }
-    
+
     /* texts */
     .texts__title{
         font-size: 30px;
@@ -269,7 +309,7 @@ html {
         font-size: 20px;
     }
     /* texts */
-    
+
 
     /* cards */
     .cards{
@@ -278,5 +318,19 @@ html {
     }
     .card{
         margin-top: 4rem;
+    }
+    
+}
+
+@media (min-width: 950px) {
+    .contenido{
+        height: 550px;
+    }
+    .contenedor{
+        width: 850px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin: 0 auto;
     }
 }
