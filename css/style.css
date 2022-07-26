@@ -252,7 +252,23 @@ html {
 
 
 /* planes */
-
+.planes{
+    width: 100%;
+    min-width: 350px;
+    height: 80vh;
+}
+.planes__title{
+    margin-top: 3.5rem;
+    font-size: 24px;
+    text-align: center;
+}
+.planes__copy{
+    margin-top: 3rem;
+    color: #757575;
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+}
 
 /* section responsive */
 @media (min-width: 518px) {
