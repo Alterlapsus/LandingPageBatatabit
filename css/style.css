@@ -271,7 +271,8 @@ html {
 }
 
 .planes__contenedor{
-    
+    width: 100%;
+    min-width: 300px;
 }
 
 .plan{
@@ -398,7 +399,9 @@ html {
     .card{
         margin-top: 4rem;
     }
-    
+    .planes__contenedor{
+        display: flex;
+    }
 }
 
 @media (min-width: 950px) {
