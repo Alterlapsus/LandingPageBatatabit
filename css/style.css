@@ -282,17 +282,55 @@ html {
     max-width: 300px;
     height: 250px;
     border-radius: 15px;
-    margin: 50px 5px 0;
+    margin: 100px 50px 0;
     padding: 0 15px;
     box-shadow: 0 4px 8px rgb(89 73 30 / 16%);;
 }
 .plan__cta{
     position: absolute;
-    margin-top: -3rem;
+    margin-top: -2.5rem;
+    margin-left: -7.5rem;
+    text-decoration: none;
+    font-size: 1.3rem;
+    background-color: #1A9AF7;
+    padding: 10px 55px;
+    color: #fff;
+    border-radius: 10px;
+    border: 3px solid #F7931A;
+}
+.plan__texts{
+    line-height: ;
 }
 .plan__title{
-    margin-top: 3rem;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    font-size: 1.4rem;
+    color: #000;
 }
+.plan__costo{
+    font-size: 52px;
+    padding: 2rem 0;
+    font-weight: bold;
+}
+.dolar span{
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.plan__paragraph{
+    font-size: 12px;
+    color: #757575;
+    margin-bottom: 1.5rem;
+}
+.plan__boton{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 14px;
+    color: #282623;
+    padding: 15px 30px;
+    border: 3px solid #F7931A;
+}
+
 
 /* section responsive */
 @media (min-width: 518px) {
