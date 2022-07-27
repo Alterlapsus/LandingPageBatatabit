@@ -344,6 +344,12 @@ html {
     border: 3px solid #F7931A;
 }
 
+/* section footer */
+.footer{
+    background-color: #F7931A;
+    height: 150px;
+    display: flex;
+}
 
 /* section responsive */
 @media (min-width: 518px) {
