@@ -289,7 +289,8 @@ html {
     border-radius: 15px;
     margin: 100px 50px 0;
     padding: 0 15px;
-    box-shadow: 0 4px 8px rgb(89 73 30 / 16%);;
+    box-shadow: 0 4px 8px rgb(89 73 30 / 16%);
+
 }
 .plan__cta{
     position: absolute;
@@ -318,6 +319,8 @@ html {
 .dolar span{
     font-size: 15px;
     font-weight: normal;
+    margin-right: 1rem;
+    vertical-align: 25px;   
 }
 
 .plan__paragraph{
