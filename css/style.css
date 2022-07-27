@@ -346,10 +346,12 @@ html {
 
 /* section footer */
 .footer{
-    background-color: #F7931A;
-    height: 150px;
     display: flex;
+    background-color: #F7931A;
+    width: 100%;
+    height: 150px;
 }
+
 
 /* section responsive */
 @media (min-width: 518px) {
