@@ -304,6 +304,13 @@ html {
     border-radius: 10px;
     border: 3px solid #F7931A;
 }
+.plan__cta--color{
+    padding: 10px 30px;
+    background-color: #F7931A;
+}
+.plan__cta--color3{
+    background-color: #201E1C;
+}
 
 .plan__title{
     padding-top: 3rem;
