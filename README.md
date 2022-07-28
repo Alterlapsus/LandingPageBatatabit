@@ -1,7 +1,7 @@
 # LandingPageBatatabit
 
-- Realizando Maquetación como práctica de página Batatabit 
-- Aún no está completada se encuentra al 70% 
+- Se realiza Maquetación como práctica de página Batatabit 
+
 
 ---
 
