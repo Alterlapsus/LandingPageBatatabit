@@ -371,17 +371,22 @@ html {
 }
 
 
+
+
 /* section responsive */
 @media (min-width: 518px) {
+    /* section header */
     .header__cta{
         margin-top: 7.5rem;
     }
+    /* section contenedor */
     .contenedor{
         align-items: center;
     }
 }
 
 @media (min-width: 636px) {
+    /* section header */
     .header__title{
         font-size: 2.5rem;
     }
@@ -443,6 +448,7 @@ html {
         justify-content: center;
     }
 
+    /* section footer */
     .footer{
         margin-top: 4rem;
     }
