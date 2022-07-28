@@ -39,11 +39,10 @@
          flex-direction: row;
          justify-content: center;
      }
- 
-     /* section footer */
      .footer{
-         margin-top: 4rem;
+        margin-top: 0rem;
      }
+     
  }
  
  @media (min-width: 950px) {
@@ -56,5 +55,8 @@
          flex-direction: row;
          flex-wrap: wrap;
          margin: 0 auto;
+     }
+     .footer{
+        margin-top: 3rem;
      }
  }
