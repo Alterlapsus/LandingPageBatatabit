@@ -345,7 +345,30 @@ html {
 }
 
 /* section footer */
+.footer{
+    margin-top: 83rem;
+    width: 100%;
+    min-width: 300px;
+    display: flex;
+    background-color: var(--Bitcoin_Orange);
+    height: 150px;
+}
+.footer section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.footer__nav ul{
+    list-style: none;
+    width: 60%;
+}
+.footer__link{
+    text-decoration: none;
+    color: var(--just_white);
+    font-size: 1.4rem;
+    line-height: 2.8rem;
+}
 
 
 /* section responsive */
@@ -418,6 +441,10 @@ html {
         display: flex;
         flex-direction: row;
         justify-content: center;
+    }
+
+    .footer{
+        margin-top: 4rem;
     }
 }
 
