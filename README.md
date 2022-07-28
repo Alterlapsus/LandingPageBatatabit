@@ -1,6 +1,6 @@
 # LandingPageBatatabit
 
-- Se realiza Maquetación como práctica de página Batatabit 
+- Se realiza maquetación de página Batatabit , con el fin de poner en práctica los conocimiento adquiridos.
 
 
 ---
@@ -34,6 +34,6 @@ Descargar de archivos:
 
 ---
 
-Realizado por: 
+Maquetado por: 
 
 - Israel de León 
