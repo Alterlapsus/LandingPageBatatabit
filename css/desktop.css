@@ -1,0 +1,60 @@
+/* desktop */
+@media (min-width: 768px) {
+    .header{
+     min-width: 870px;
+    }
+     .header__texts{
+         width: 80%;
+     }
+     .header__title{
+         font-size: 4rem;
+     }
+     .header__copy{
+         font-size: 2rem;
+     }
+     .header__cta{
+         margin-top: 2rem;
+     }
+ 
+     /* hero */
+     .texts__title{
+         font-size: 35px;
+     }
+     .texts__copy{
+         font-size: 20px;
+     }
+     /* texts */
+ 
+ 
+     /* cards */
+     .cards{
+         display: flex;
+         justify-content: space-evenly;
+     }
+     .card{
+         margin-top: 4rem;
+     }
+     .planes__contenedor{
+         display: flex;
+         flex-direction: row;
+         justify-content: center;
+     }
+ 
+     /* section footer */
+     .footer{
+         margin-top: 4rem;
+     }
+ }
+ 
+ @media (min-width: 950px) {
+     .contenido{
+         height: 550px;
+     }
+     .contenedor{
+         width: 850px;
+         display: flex;
+         flex-direction: row;
+         flex-wrap: wrap;
+         margin: 0 auto;
+     }
+ }

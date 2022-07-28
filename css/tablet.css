@@ -1,0 +1,32 @@
+/* section responsive tablet */
+@media (min-width: 518px) {
+    /* section header */
+    .header__cta{
+        margin-top: 7.5rem;
+    }
+    /* section contenedor */
+    .contenedor{
+        align-items: center;
+    }
+}
+
+@media (min-width: 636px) {
+    /* section header */
+    .header__title{
+        font-size: 2.5rem;
+    }
+    .header__copy{
+        font-size: 1.6rem;
+    }
+    .header__cta{
+        margin-top: 9.5rem;
+    }
+
+    /* texts */
+    .texts__title{
+        font-size: 30px;
+    }
+    .texts__copy{
+        font-size: 18px;
+    }
+}
