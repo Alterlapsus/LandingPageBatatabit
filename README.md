@@ -34,6 +34,6 @@ Descargar de archivos:
 
 ---
 
-Maquetado por: 
+Realizado por: 
 
 - Israel de León 
