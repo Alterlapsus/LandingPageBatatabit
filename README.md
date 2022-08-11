@@ -21,7 +21,7 @@
 Tecnologías utilizadas:
 
 - HTML 
-- CSS FLEXBOX Y BEM
+- CSS Flex-box y metodología BEM
 
 ---
 
