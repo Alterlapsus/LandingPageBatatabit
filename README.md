@@ -1,6 +1,6 @@
 # LandingPageBatatabit
 
-- Se realiza maquetación de página Batatabit , con el fin de poner en práctica los conocimiento adquiridos de HTML Y CSS.
+- Se realiza maquetación de página Batatabit , con el fin de poner en práctica los conocimiento adquiridos de HTML Y CSS...
 
 
 ---
