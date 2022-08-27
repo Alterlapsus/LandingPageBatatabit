@@ -20,7 +20,7 @@
 Tecnologías utilizadas:
 
 - HTML 
-- CSS (FLEXBOX Y BEM)
+- CSS (FLEXBOX, GRID Y BEM)
 
 ---
 
