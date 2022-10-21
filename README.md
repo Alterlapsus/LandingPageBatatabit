@@ -26,7 +26,7 @@ Tecnologías utilizadas:
 ---
 
 
-Descargar de archivos: 
+Descarga de archivos: 
 
 - git 
 - git clone https://github.com/Alterlapsus/LandingPageBatatabit.git
