@@ -33,6 +33,6 @@ Descarga de archivos:
 
 ---
 
-Realizado por: 
+Maquetado por: 
 
 - Israel de León 
