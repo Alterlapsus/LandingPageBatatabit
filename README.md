@@ -7,7 +7,7 @@
 <a href="https://batatabitalter.netlify.app/">Ver WebSite</a>
 
 - Desktop
- 
+   
 <a href="https://postimg.cc/hQq5f15R" target="_blank"><img src="https://i.postimg.cc/3Ny5fLjN/Desktop-Batatabit.png" alt="Desktop-Batatabit"/></a><br/><br/>
 
 
