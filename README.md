@@ -14,7 +14,7 @@
 - Mobile
 
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/3r6H0T7v/mobile.png" alt="mobile"/></a><br/><br/>
-
+  
 ---
 
 Tecnologías utilizadas:
